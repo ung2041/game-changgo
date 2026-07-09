@@ -3,10 +3,16 @@
 
 const categories = [
   {
-    "name": "기타",
-    "icon": "📁",
-    "desc": "아직 분류하지 않은 게임 파일",
-    "url": "https://drive.google.com/open?id=1i_Uzg_oTYhnAFiWLc_v1y-gRnpWuqGaF&usp=drive_copy"
+    "name": "모드",
+    "icon": "🧩",
+    "desc": "게임 기능을 추가하는 단일 모드 파일",
+    "url": "https://drive.google.com/open?id=1rktqA_b-dVLEiqM8z7VgUvDqv0x21CEb&usp=drive_copy"
+  },
+  {
+    "name": "모드팩",
+    "icon": "🎒",
+    "desc": "여러 모드를 묶어놓은 패키지",
+    "url": "https://drive.google.com/open?id=1c_i-4k1cw_LZQ6NrP0vQUhjrbSe9rz9C&usp=drive_copy"
   },
   {
     "name": "리소스팩",
@@ -21,22 +27,16 @@ const categories = [
     "url": "https://drive.google.com/open?id=1Ama1Lf6DmflTz9RpLiuqik80y5eUb6se&usp=drive_copy"
   },
   {
-    "name": "모드",
-    "icon": "🧩",
-    "desc": "게임 기능을 추가하는 단일 모드 파일",
-    "url": "https://drive.google.com/open?id=1rktqA_b-dVLEiqM8z7VgUvDqv0x21CEb&usp=drive_copy"
-  },
-  {
-    "name": "모드팩",
-    "icon": "🎒",
-    "desc": "여러 모드를 묶어놓은 패키지",
-    "url": "https://drive.google.com/open?id=1c_i-4k1cw_LZQ6NrP0vQUhjrbSe9rz9C&usp=drive_copy"
-  },
-  {
     "name": "서버",
     "icon": "📦",
     "desc": "서버팩, 서버 파일, 서버 관련 자료",
     "url": "https://drive.google.com/open?id=10F3L3v4jeid_4zSNLAEju9XsXnWsWZFY&usp=drive_copy"
+  },
+  {
+    "name": "기타",
+    "icon": "📁",
+    "desc": "아직 분류하지 않은 게임 파일",
+    "url": "https://drive.google.com/open?id=1i_Uzg_oTYhnAFiWLc_v1y-gRnpWuqGaF&usp=drive_copy"
   }
 ];
 
